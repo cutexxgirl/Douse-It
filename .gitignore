@@ -1,0 +1,29 @@
+# Ignore Gradle build output directory
+build/
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Ignore IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+
+# Temporary and system files
+*.log
+*.DS_Store
+Thumbs.db
+*.bak
+
+# Ignore reference dumps or assets not part of the source
+run/
+Enchantment Glows v1.4 1.20+/
+build_log.txt
+build_log_v2.txt
+build_log_v3.txt
+build_debug_log.txt
+build_debug_args.txt

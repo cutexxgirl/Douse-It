@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL=""
+showAsResourcePack=false
+
+[[mods]]
+modId="douseit"
+version="1.0.0"
+displayName="DouseIt"
+updateJSONURL=""
+displayURL=""
+logoFile=""
+credits=""
+authors="cutexxgirl"
+description='''
+DouseIt enhances the visual experience of burning entities by replacing the intrusive vanilla fire overlay with customizable particle effects.
+Features:
+- Hides the blocky fire texture overlay
+- Adds custom flame, ember, and smoke particles
+- Full configuration of particle density, speed, and behavior
+'''
+
+[[dependencies.douseit]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.douseit]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

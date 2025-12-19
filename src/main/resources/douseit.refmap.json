@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "douseit/mixin/MixinEntity": {
+      "displayFireAnimation": "Lnet/minecraft/world/entity/Entity;m_6051_()Z"
+    }
+  },
+  "data": {
+    "searge": {
+      "douseit/mixin/MixinEntity": {
+        "displayFireAnimation": "Lnet/minecraft/world/entity/Entity;m_6051_()Z"
+      }
+    }
+  }
+}
