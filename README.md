@@ -1,6 +1,7 @@
 # Douse It
 
-A lightweight client-side mod that enhances the visual experience of burning entities.
+A lightweight client-side mod that enhances the visual experience of burning entities. 
+**Perfect for PVP and aesthetic focus: removes the blinding fire overlay (Low/No Fire) and replaces it with customizable particles.**
 
 ## Features
 
